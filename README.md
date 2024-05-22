@@ -1,1 +1,6 @@
 # PropertyPro
+A web application that allows users to search for properties based on criteria specified by the user, such as location, price range, features, etc. Users can view detailed property information, including photos, descriptions, and amenities. Additionally, the application provides tools for property analysis, such as comparing similar properties, estimating mortgage payments, and calculating potential rental income. Within the same application, users can access a dashboard that visualizes real estate market trends. The dashboard presents various metrics such as median home prices, inventory levels, price-to-rent ratios, and more. Users can explore interactive charts, graphs, and maps to gain insights into the current state of the real estate market in their desired areas. The application also includes a feature for analyzing the potential profitability of real estate investments. Users can input their financial parameters, such as purchase price, down payment, interest rate, and expected rental income. Users receive personalized recommendations and insights to help them make informed investment decisions.
+# Required Resources
+Work in Progress
+# How to Run project
+Work in Progress
